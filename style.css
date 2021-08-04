@@ -31,7 +31,7 @@ body {
 .header__text {
     color: hsl(229, 6%, 66%);
     padding-top: 1em;
-    font-size: 15px;
+    font-size: 1rem;
 }
 .card--wrapper{
     height: 100%;
