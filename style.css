@@ -10,8 +10,9 @@ body {
     background-color: hsl(0, 0%, 98%);
 }
 .header {
+    
     width: 100%;
-    margin: 0 auto;
+    margin: 3em auto;
 }
 .header--content {
     width: 80%;
